@@ -1,0 +1,21 @@
+{
+  "name": "design-tokens",
+  "version": "0.1.0",
+  "description": "Design tokens are a set of visual design attributes needed to create custom themes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-hussar/design-tokens.git"
+  },
+  "keywords": [
+    "ui",
+    "design",
+    "tokens"
+  ],
+  "author": "Dmitry Gusarov <sea.tentacle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-hussar/design-tokens/issues"
+  },
+  "homepage": "https://github.com/d-hussar/design-tokens#readme"
+}
